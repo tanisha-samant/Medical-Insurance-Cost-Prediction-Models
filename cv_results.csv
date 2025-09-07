@@ -1,0 +1,6 @@
+Model,CV_R2
+Linear Regression,0.7468616243473741
+Decision Tree,0.6990864784018175
+Random Forest,0.8360452931972272
+Ridge Regression,0.7468670519387427
+Lasso Regression,0.7468617286700336
